@@ -1,5 +1,5 @@
 
-[![HitCount](https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat)](https://github.com/browserneo)
+[![HitCount]([https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat](https://nglebka.github.io/)](https://github.com/NGlebka)
 
 
        Hi, I’m George
