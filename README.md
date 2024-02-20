@@ -15,7 +15,7 @@
 
 <br>
 
-[<img src="https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:nglebka77@yandex.ru)[<img src="https://img.shields.io/badge/GitHub-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://github.com/NGlebka)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/E_Ventura)
+[<img src="https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:nglebka77@yandex.ru)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/E_Ventura)
 
 
 ###
