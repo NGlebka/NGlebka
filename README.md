@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Mario animation](https://github.com/NGlebka/NGlebka/blob/main/Mario.gif)
+![Snake animation](https://github.com/NGlebka/NGlebka/blob/main/Mario.gif)
