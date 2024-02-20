@@ -18,17 +18,10 @@
 [<img src="https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:nglebka77@yandex.ru)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/E_Ventura)
 
 
-###
-
-
-
-<!---
-BrowserNeo/BrowserNeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 
 
 
-![Snake animation](https://github.com/NGlebka/NGlebka/blob/main/V8MX.gif)
+
+![Snake animation](https://github.com/NGlebka/NGlebka/blob/main/github-contribution-grid-snake-dark%20(1).svg)
