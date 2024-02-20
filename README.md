@@ -1,24 +1,6 @@
-
-[![HitCount]([https://komarev.com/ghpvc/?username=browserneo&label=Profile%20views&color=60dae2&style=flat](https://nglebka.github.io/)](https://github.com/NGlebka)
-
-
-       Hi, I’m George
-       
-
-
-<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
-
-  <img src="steck/wave.gif" width="30px">
-  
-  
-  
-  ##  QA Engineer
-  
-- 🌱 I’m working now in TEDU (QA)
-
-- 💞️ I’m currently learning QA Automation
-
-<br>
+<h1 align="left">𝐻𝒾 ✌, 𝐼'𝓂 <a href="https://nglebka.github.io/" target="_blank">𝒢𝓁𝑒𝒷</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7670C&center=true&random=false&width=435&lines=QA+Engineer" alt="Typing SVG" /></a>
 
 
 
