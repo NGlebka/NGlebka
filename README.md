@@ -5,7 +5,7 @@
 
 ![grab-landing-page](https://i.gifer.com/embedded/download/V8MX.gif)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NGlebka&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NGlebka&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 ## 💻 Technology stack
 
