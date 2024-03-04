@@ -19,9 +19,9 @@
 
 [<img src="https://img.shields.io/badge/EMail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:nglebka77@yandex.ru)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/E_Ventura)
 
-
+<br>
 <h3> <a href="https://t.me/validator_JSON_by_Glebka_bot" target="_blank">My telegram bot for Validation JSON</a> </h3>
-
+<br>
 
 
 
